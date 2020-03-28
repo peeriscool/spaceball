@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: faea5718d22a06c429ad1add52a2d4b1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: chairs
+    100002: chairs corner
+    100004: chairs.001
+    100006: chairs.002
+    100008: chairs.003
+    100010: chairs.004
+    100012: chairs.005
+    100014: chairs.006
+    100016: chairs.007
+    100018: chairs.008
+    100020: chairs.009
+    100022: chairs.010
+    100024: chairs.011
+    100026: chairs.012
+    100028: ground
+    100030: hek
+    100032: nothing
+    100034: nothing.001
+    100036: nothing.002
+    100038: nothing.003
+    100040: paaltjes
+    100042: paaltjes.001
+    100044: paaltjes.002
+    100046: paaltjes.003
+    100048: paaltjes.004
+    100050: paaltjes.005
+    100052: paaltjes.006
+    100054: paaltjes.007
+    100056: podium
+    100058: podium.001
+    100060: podium.002
+    100062: podium.003
+    100064: podium.004
+    100066: podium.005
+    100068: podium.006
+    100070: podium.007
+    100072: podium.008
+    100074: roof
+    100076: roof.001
+    100078: roof.002
+    100080: roof.003
+    100082: side
+    100084: side.001
+    100086: side.002
+    100088: side.003
+    100090: //RootNode
+    100092: wall tribune
+    100094: wall tribune.001
+    100096: wall tribune.002
+    100098: wall tribune.003
+    100100: wall tribune.004
+    100102: wall tribune.005
+    100104: wall tribune.006
+    100106: wall tribune.007
+    100108: wall tribune.008
+    100110: wall tribune.009
+    400000: chairs
+    400002: chairs corner
+    400004: chairs.001
+    400006: chairs.002
+    400008: chairs.003
+    400010: chairs.004
+    400012: chairs.005
+    400014: chairs.006
+    400016: chairs.007
+    400018: chairs.008
+    400020: chairs.009
+    400022: chairs.010
+    400024: chairs.011
+    400026: chairs.012
+    400028: ground
+    400030: hek
+    400032: nothing
+    400034: nothing.001
+    400036: nothing.002
+    400038: nothing.003
+    400040: paaltjes
+    400042: paaltjes.001
+    400044: paaltjes.002
+    400046: paaltjes.003
+    400048: paaltjes.004
+    400050: paaltjes.005
+    400052: paaltjes.006
+    400054: paaltjes.007
+    400056: podium
+    400058: podium.001
+    400060: podium.002
+    400062: podium.003
+    400064: podium.004
+    400066: podium.005
+    400068: podium.006
+    400070: podium.007
+    400072: podium.008
+    400074: roof
+    400076: roof.001
+    400078: roof.002
+    400080: roof.003
+    400082: side
+    400084: side.001
+    400086: side.002
+    400088: side.003
+    400090: //RootNode
+    400092: wall tribune
+    400094: wall tribune.001
+    400096: wall tribune.002
+    400098: wall tribune.003
+    400100: wall tribune.004
+    400102: wall tribune.005
+    400104: wall tribune.006
+    400106: wall tribune.007
+    400108: wall tribune.008
+    400110: wall tribune.009
+    2100000: Material
+    2100002: No Name
+    2300000: chairs
+    2300002: chairs corner
+    2300004: chairs.001
+    2300006: chairs.002
+    2300008: chairs.003
+    2300010: chairs.004
+    2300012: chairs.005
+    2300014: chairs.006
+    2300016: chairs.007
+    2300018: chairs.008
+    2300020: chairs.009
+    2300022: chairs.010
+    2300024: chairs.011
+    2300026: chairs.012
+    2300028: ground
+    2300030: hek
+    2300032: nothing
+    2300034: nothing.001
+    2300036: nothing.002
+    2300038: nothing.003
+    2300040: paaltjes
+    2300042: paaltjes.001
+    2300044: paaltjes.002
+    2300046: paaltjes.003
+    2300048: paaltjes.004
+    2300050: paaltjes.005
+    2300052: paaltjes.006
+    2300054: paaltjes.007
+    2300056: podium
+    2300058: podium.001
+    2300060: podium.002
+    2300062: podium.003
+    2300064: podium.004
+    2300066: podium.005
+    2300068: podium.006
+    2300070: podium.007
+    2300072: podium.008
+    2300074: roof
+    2300076: roof.001
+    2300078: roof.002
+    2300080: roof.003
+    2300082: side
+    2300084: side.001
+    2300086: side.002
+    2300088: side.003
+    2300090: wall tribune
+    2300092: wall tribune.001
+    2300094: wall tribune.002
+    2300096: wall tribune.003
+    2300098: wall tribune.004
+    2300100: wall tribune.005
+    2300102: wall tribune.006
+    2300104: wall tribune.007
+    2300106: wall tribune.008
+    2300108: wall tribune.009
+    3300000: chairs
+    3300002: chairs corner
+    3300004: chairs.001
+    3300006: chairs.002
+    3300008: chairs.003
+    3300010: chairs.004
+    3300012: chairs.005
+    3300014: chairs.006
+    3300016: chairs.007
+    3300018: chairs.008
+    3300020: chairs.009
+    3300022: chairs.010
+    3300024: chairs.011
+    3300026: chairs.012
+    3300028: ground
+    3300030: hek
+    3300032: nothing
+    3300034: nothing.001
+    3300036: nothing.002
+    3300038: nothing.003
+    3300040: paaltjes
+    3300042: paaltjes.001
+    3300044: paaltjes.002
+    3300046: paaltjes.003
+    3300048: paaltjes.004
+    3300050: paaltjes.005
+    3300052: paaltjes.006
+    3300054: paaltjes.007
+    3300056: podium
+    3300058: podium.001
+    3300060: podium.002
+    3300062: podium.003
+    3300064: podium.004
+    3300066: podium.005
+    3300068: podium.006
+    3300070: podium.007
+    3300072: podium.008
+    3300074: roof
+    3300076: roof.001
+    3300078: roof.002
+    3300080: roof.003
+    3300082: side
+    3300084: side.001
+    3300086: side.002
+    3300088: side.003
+    3300090: wall tribune
+    3300092: wall tribune.001
+    3300094: wall tribune.002
+    3300096: wall tribune.003
+    3300098: wall tribune.004
+    3300100: wall tribune.005
+    3300102: wall tribune.006
+    3300104: wall tribune.007
+    3300106: wall tribune.008
+    3300108: wall tribune.009
+    4300000: ground
+    4300002: podium
+    4300004: nothing
+    4300006: paaltjes
+    4300008: chairs
+    4300010: chairs.001
+    4300012: chairs.002
+    4300014: podium.001
+    4300016: paaltjes.001
+    4300018: wall tribune
+    4300020: wall tribune.001
+    4300022: wall tribune.002
+    4300024: hek
+    4300026: podium.002
+    4300028: nothing.001
+    4300030: paaltjes.002
+    4300032: chairs.003
+    4300034: chairs.004
+    4300036: chairs.005
+    4300038: podium.003
+    4300040: paaltjes.003
+    4300042: podium.004
+    4300044: nothing.002
+    4300046: paaltjes.004
+    4300048: chairs.006
+    4300050: chairs.007
+    4300052: chairs.008
+    4300054: podium.005
+    4300056: paaltjes.005
+    4300058: wall tribune.008
+    4300060: wall tribune.009
+    4300062: podium.008
+    4300064: podium.006
+    4300066: nothing.003
+    4300068: paaltjes.006
+    4300070: chairs.009
+    4300072: chairs.010
+    4300074: chairs.011
+    4300076: podium.007
+    4300078: paaltjes.007
+    4300080: wall tribune.007
+    4300082: side.003
+    4300084: chairs corner
+    4300086: chairs.012
+    4300088: roof
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
