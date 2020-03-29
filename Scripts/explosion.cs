@@ -22,7 +22,6 @@ public class explosion : MonoBehaviour
     }
     public void kleineeboem()
     {
-        Debug.Log("i've noticed you are depressed");
         Vector3 explosionPos = transform.position;
         Collider[] colliders = Physics.OverlapSphere(explosionPos, radius);
         foreach (Collider hit in colliders)

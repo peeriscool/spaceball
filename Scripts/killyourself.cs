@@ -18,7 +18,6 @@ public class killyourself : MonoBehaviour
     {
         if (Input.GetButton("miniboom") == true || Input.GetButton("miniboom joy") == true)
         {
-            Debug.Log("depressie");
             this.GetComponent<explosion>().kleineeboem();
         }
     }

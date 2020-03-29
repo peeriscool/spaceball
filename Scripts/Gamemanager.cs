@@ -29,16 +29,12 @@ public class Gamemanager : MonoBehaviour
             return instance;
         }
     }
-    public void add2score(string scorename)
-    {
-        if (scorename == "goal1") { score2 = +1; }
-        if (scorename == "goal") { score1 = +1; }
-    }
+
     public void OnLevelWasLoaded()
     {
-        Debug.Log("check for new round?");
-        //scoreplayer1.text = ;
-     //   Destroy(GameObject.Find("Canvas (1)"));
+        Debug.Log("check for old goals");
+        scoreplayer1.text = Scoretotext.scoreplayer1.ToString();
+        scoreplayer2.text = Scoretotext.scoreplayer2.ToString();
     }
     
 }
