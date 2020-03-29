@@ -17,7 +17,8 @@ public class Gamemanager : MonoBehaviour
     public Canvas puntencanvas;
     public static int score1;
     public static int score2;
-
+    public Image buffactive1;
+    public Image buffactive2;
     private static Gamemanager instance;
     //public Statemachine Rounds;
     public static Gamemanager Instance
