@@ -12,12 +12,14 @@ public class Goal : MonoBehaviour
             Debug.Log("er is gescoord");
             if(this.name == "goal1")
             { 
-                Gamemanager.Instance.scoreplayer1.text = "1";
+                Gamemanager.Instance.scoreplayer1.text +=1;
                 Scene scene = SceneManager.GetActiveScene(); SceneManager.LoadScene(scene.name);
             }
             if (this.name == "goal")
             {
-                Gamemanager.Instance.scoreplayer2.text = "1";
+                Gamemanager.Instance.scoreplayer2.text +=1;
+                Gamemanager.Instance.add2score(this.name);
+                DontDestroyOnLoad(GameObject.Find("Canvas (1)"));
                 Scene scene = SceneManager.GetActiveScene(); SceneManager.LoadScene(scene.name);
             }
         }

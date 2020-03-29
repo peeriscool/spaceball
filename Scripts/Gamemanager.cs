@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class Gamemanager : MonoBehaviour
 {
     public Text Countdown;
@@ -13,7 +14,9 @@ public class Gamemanager : MonoBehaviour
     public shoot gun2;
     public Text scoreplayer1;
     public Text scoreplayer2;
-
+    public Canvas puntencanvas;
+    public static int score1;
+    public static int score2;
 
     private static Gamemanager instance;
     //public Statemachine Rounds;
@@ -26,17 +29,16 @@ public class Gamemanager : MonoBehaviour
             return instance;
         }
     }
-    void Start()
+    public void add2score(string scorename)
     {
-       
+        if (scorename == "goal1") { score2 = +1; }
+        if (scorename == "goal") { score1 = +1; }
     }
-    public void assignsomevalues()
+    public void OnLevelWasLoaded()
     {
-
+        Debug.Log("check for new round?");
+        //scoreplayer1.text = ;
+     //   Destroy(GameObject.Find("Canvas (1)"));
     }
-   
-    void Update()
-    {
-        
-    }
+    
 }

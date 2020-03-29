@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   radius: 10
-  power: 10
+  power: 300
 --- !u!54 &4151550210585420485
 Rigidbody:
   m_ObjectHideFlags: 0

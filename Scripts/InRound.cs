@@ -45,6 +45,7 @@ public class InRound : Basestate
         if (timeLeft < 0)
         {
             Scene scene = SceneManager.GetActiveScene(); SceneManager.LoadScene(scene.name);
+           
         }
     }
 }

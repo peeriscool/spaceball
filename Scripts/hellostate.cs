@@ -13,6 +13,7 @@ public class hellostate : Basestate
     Renderer changematerial;
     public hellostate(TestingState testingstate): base(testingstate.gameObject) //?
     {
+        
         CountdownDisplay = Gamemanager.Instance.Countdown;
         Gamemanager.Instance.player1control.enabled = false;
         Gamemanager.Instance.player2control.enabled = false;
